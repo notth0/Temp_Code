@@ -1,2 +1,4 @@
 # This is my code 
-compton you 
+```sh
+git clone url
+```
